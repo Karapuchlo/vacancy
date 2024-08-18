@@ -1,7 +1,6 @@
 import json
-from unyts import run_parser_hh, run_parser_Superjob
-from vacancy import Vacancy
-
+from src.unyts import run_parser_hh, run_parser_Superjob
+from src.vacancy import Vacancy
 def main():
     while True:
         # Выводим список доступных действий
@@ -23,10 +22,9 @@ def main():
             elif viborparsera == '2':
                 vacancies = run_parser_Superjob()
 
-            # Сериализуем список вакансий в JSON
-            vacancies_dict = [vacancy.to_dict() for vacancy in vacancies]
-            with open('vacancies.json', 'w', encoding='utf-8') as f:
-                json.dump(vacancies_dict, f, ensure_ascii=False, indent=4)
+                # Сериализуем список вакансий в JSON
+                with open('vacancies.json', 'w', encoding='utf-8') as f:
+                    json.dump([v.__dict__ for v in vacancies], f, ensure_ascii=False, indent=4)
 
             # Экспортируем вакансии
             print('Данные успешно экспортированы в файл vacancies.json')

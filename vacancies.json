@@ -1,7 +1,607 @@
 [
-    [
-    [
-    [
-    [
-    [
-    
+    {
+        "employer_name": "SQL разработчик",
+        "name": "АПТЕКА ВАША № 1",
+        "salary": {
+            "from": 150000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "alternate_url": "https://hh.ru/vacancy/97263333"
+    },
+    {
+        "employer_name": "Python-разработчик (junior)",
+        "name": "Скиллтеллект",
+        "salary": {
+            "from": 60000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "alternate_url": "https://hh.ru/vacancy/105946243"
+    },
+    {
+        "employer_name": "Программист Python (г. Новосибирск)",
+        "name": "Кадровое Агентство Averina.agency",
+        "salary": {
+            "from": 150000,
+            "to": 180000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "alternate_url": "https://hh.ru/vacancy/104435019"
+    },
+    {
+        "employer_name": "Junior web developer",
+        "name": "DBI",
+        "salary": {
+            "from": 40000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "alternate_url": "https://hh.ru/vacancy/105906874"
+    },
+    {
+        "employer_name": "Стажер-разработчик",
+        "name": "Строй-Отделка",
+        "salary": {
+            "from": 50000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "alternate_url": "https://hh.ru/vacancy/105787563"
+    },
+    {
+        "employer_name": "Python developer",
+        "name": "АВ Софт",
+        "salary": {
+            "from": 120000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "alternate_url": "https://hh.ru/vacancy/105925196"
+    },
+    {
+        "employer_name": "Intern Python Developer / Стажер Python-разработчик",
+        "name": "РЕВТЕХ",
+        "salary": {
+            "from": 200000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "alternate_url": "https://hh.ru/vacancy/105651593"
+    },
+    {
+        "employer_name": "Программист Python (Junior)",
+        "name": "Раздоров и Компания",
+        "salary": {
+            "from": 45000,
+            "to": 60000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "alternate_url": "https://hh.ru/vacancy/105855574"
+    },
+    {
+        "employer_name": "Junior Python developer",
+        "name": "Emphasoft",
+        "salary": {
+            "from": null,
+            "to": 60000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "alternate_url": "https://hh.ru/vacancy/104645477"
+    },
+    {
+        "employer_name": "Frontend-разработчик (React)",
+        "name": "Ананас. ИТ Решения",
+        "salary": {
+            "from": 80000,
+            "to": 130000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "alternate_url": "https://hh.ru/vacancy/105838253"
+    },
+    {
+        "employer_name": "Junior Backend разработчик (Python)",
+        "name": "Tevian (ООО Технологии видеоанализа)",
+        "salary": {
+            "from": 110000,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "alternate_url": "https://hh.ru/vacancy/105394925"
+    },
+    {
+        "employer_name": "Разработчик (Удаленно)",
+        "name": "PAVEPO",
+        "salary": {
+            "from": 95000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "alternate_url": "https://hh.ru/vacancy/105867820"
+    },
+    {
+        "employer_name": "Тестировщик (QA Engineer)",
+        "name": "ЛИНС",
+        "salary": {
+            "from": 80000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "alternate_url": "https://hh.ru/vacancy/105682317"
+    },
+    {
+        "employer_name": "Python разработчик",
+        "name": "IT For You",
+        "salary": {
+            "from": 150000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "alternate_url": "https://hh.ru/vacancy/105702822"
+    },
+    {
+        "employer_name": "Junior Программист (Telegram Боты, Mini-Apps)",
+        "name": "ПОСМ.РЦ.",
+        "salary": {
+            "from": 70000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "alternate_url": "https://hh.ru/vacancy/105873970"
+    },
+    {
+        "employer_name": "Программист Python (Junior)",
+        "name": "Уфанет",
+        "salary": {
+            "from": 60000,
+            "to": 80000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "alternate_url": "https://hh.ru/vacancy/105669347"
+    },
+    {
+        "employer_name": "Python Разработчик",
+        "name": "Гроссбит",
+        "salary": {
+            "from": 80000,
+            "to": 130000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "alternate_url": "https://hh.ru/vacancy/105802778"
+    },
+    {
+        "employer_name": "Тестировщик",
+        "name": "Фабрика информационных технологий",
+        "salary": {
+            "from": 75000,
+            "to": 95000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "alternate_url": "https://hh.ru/vacancy/105194388"
+    },
+    {
+        "employer_name": "Junior Backend разработчик (Golang)",
+        "name": "Tevian (ООО Технологии видеоанализа)",
+        "salary": {
+            "from": 110000,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "alternate_url": "https://hh.ru/vacancy/105394247"
+    },
+    {
+        "employer_name": "Веб-разработчик",
+        "name": "Попов Максим Сергеевич",
+        "salary": {
+            "from": 80000,
+            "to": 130000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "alternate_url": "https://hh.ru/vacancy/105690722"
+    },
+    {
+        "employer_name": "Python разработчик (Junior+)",
+        "name": "Leads",
+        "salary": {
+            "from": 70000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "alternate_url": "https://hh.ru/vacancy/105043389"
+    },
+    {
+        "employer_name": "Python разработчик",
+        "name": "aQsi",
+        "salary": {
+            "from": 150000,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "alternate_url": "https://hh.ru/vacancy/105383640"
+    },
+    {
+        "employer_name": "Junior Golang Developer",
+        "name": "JavaCode",
+        "salary": {
+            "from": 75000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "alternate_url": "https://hh.ru/vacancy/105381859"
+    },
+    {
+        "employer_name": "Программист Python (Junior)",
+        "name": "Айти - Альбион",
+        "salary": {
+            "from": 30000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "alternate_url": "https://hh.ru/vacancy/105839298"
+    },
+    {
+        "employer_name": "Программист Python junior",
+        "name": "CDNvideo (ООО СДН-видео)",
+        "salary": {
+            "from": 85000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "alternate_url": "https://hh.ru/vacancy/105665279"
+    },
+    {
+        "employer_name": "Руководитель отдела разработки",
+        "name": "Тихомиров Алексей",
+        "salary": {
+            "from": 500000,
+            "to": 500000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "alternate_url": "https://hh.ru/vacancy/105938700"
+    },
+    {
+        "employer_name": "ML разработчик (Python)",
+        "name": "Скиллтеллект",
+        "salary": {
+            "from": 60000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "alternate_url": "https://hh.ru/vacancy/105934678"
+    },
+    {
+        "employer_name": "Инженер по тестированию ПО",
+        "name": "ET HR",
+        "salary": {
+            "from": 150000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "alternate_url": "https://hh.ru/vacancy/104540200"
+    },
+    {
+        "employer_name": "Python Developer",
+        "name": "Сайбертех",
+        "salary": {
+            "from": 150000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "alternate_url": "https://hh.ru/vacancy/105681092"
+    },
+    {
+        "employer_name": "Python-разработчик",
+        "name": "Винников Евгений",
+        "salary": {
+            "from": 70000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "alternate_url": "https://hh.ru/vacancy/105858083"
+    },
+    {
+        "employer_name": "Программист Python/Data Scientist (junior)",
+        "name": "Апэрбот",
+        "salary": {
+            "from": 90000,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "alternate_url": "https://hh.ru/vacancy/105896962"
+    },
+    {
+        "employer_name": "QA engineer (ручное тестирование)",
+        "name": "ГИРУС",
+        "salary": {
+            "from": 120000,
+            "to": 160000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "alternate_url": "https://hh.ru/vacancy/105358654"
+    },
+    {
+        "employer_name": "Программист-разработчик",
+        "name": "Арпринт",
+        "salary": {
+            "from": 25000,
+            "to": 50000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "alternate_url": "https://hh.ru/vacancy/105767959"
+    },
+    {
+        "employer_name": "Junior Python Backend Developer",
+        "name": "АпТрейдер (UpTrader)",
+        "salary": {
+            "from": null,
+            "to": 80000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "alternate_url": "https://hh.ru/vacancy/104345588"
+    },
+    {
+        "employer_name": "Тестировщик (ручной/автоматизатор)",
+        "name": "Протектор",
+        "salary": {
+            "from": 150000,
+            "to": 200000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "alternate_url": "https://hh.ru/vacancy/104926271"
+    },
+    {
+        "employer_name": "Младший backend-разработчик",
+        "name": "SW Development",
+        "salary": {
+            "from": 45000,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "alternate_url": "https://hh.ru/vacancy/105357916"
+    },
+    {
+        "employer_name": "Python разработчик (Middle)",
+        "name": "Leads",
+        "salary": {
+            "from": 180000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "alternate_url": "https://hh.ru/vacancy/105068287"
+    },
+    {
+        "employer_name": "Junior+ Python разработчик/администратор (gamedev)",
+        "name": "EmFi Technologies Limited",
+        "salary": {
+            "from": 1500,
+            "to": 2200,
+            "currency": "USD",
+            "gross": true
+        },
+        "alternate_url": "https://hh.ru/vacancy/105799155"
+    },
+    {
+        "employer_name": "Frontend разработчик (REACT)",
+        "name": "ИнРев",
+        "salary": {
+            "from": 140000,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "alternate_url": "https://hh.ru/vacancy/105929347"
+    },
+    {
+        "employer_name": "Python developer (удаленная работа)",
+        "name": "Рекламно-Торговый Конгломерат",
+        "salary": {
+            "from": 200000,
+            "to": 250000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "alternate_url": "https://hh.ru/vacancy/103033130"
+    },
+    {
+        "employer_name": "Тестировщик / QA",
+        "name": "ВижнЛабс (VisionLabs)",
+        "salary": {
+            "from": null,
+            "to": 214000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "alternate_url": "https://hh.ru/vacancy/105874260"
+    },
+    {
+        "employer_name": "Junior Python Developer",
+        "name": "DarwinSoft (ООО Дарвин)",
+        "salary": {
+            "from": 50000,
+            "to": 80000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "alternate_url": "https://hh.ru/vacancy/104724178"
+    },
+    {
+        "employer_name": "Python-разработчик",
+        "name": "Винников Евгений",
+        "salary": {
+            "from": 60000,
+            "to": 100000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "alternate_url": "https://hh.ru/vacancy/105661383"
+    },
+    {
+        "employer_name": "HTML-верстальщик ( со знанием MySQL)",
+        "name": "Виста",
+        "salary": {
+            "from": 50000,
+            "to": null,
+            "currency": "RUR",
+            "gross": true
+        },
+        "alternate_url": "https://hh.ru/vacancy/105726183"
+    },
+    {
+        "employer_name": "Backend Developer",
+        "name": "Вербицкий Евгений Владимирович",
+        "salary": {
+            "from": null,
+            "to": 3000,
+            "currency": "USD",
+            "gross": false
+        },
+        "alternate_url": "https://hh.ru/vacancy/105840484"
+    },
+    {
+        "employer_name": "Тестировщик",
+        "name": "IT-парк Питерский мостик",
+        "salary": {
+            "from": 50000,
+            "to": 80000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "alternate_url": "https://hh.ru/vacancy/105644130"
+    },
+    {
+        "employer_name": "Middle Python Developer",
+        "name": "Buzz",
+        "salary": {
+            "from": 80000,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "alternate_url": "https://hh.ru/vacancy/105680533"
+    },
+    {
+        "employer_name": "Middle Python Backend разработчик",
+        "name": "Терехов",
+        "salary": {
+            "from": 110000,
+            "to": 150000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "alternate_url": "https://hh.ru/vacancy/105822309"
+    },
+    {
+        "employer_name": "Стажер-тестировщик",
+        "name": "NGRSOFTLAB",
+        "salary": {
+            "from": 40000,
+            "to": 40000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "alternate_url": "https://hh.ru/vacancy/104983242"
+    },
+    {
+        "employer_name": "Python разработчик бота в TG (part-time)",
+        "name": "Ургалкин Григорий Васильевич",
+        "salary": {
+            "from": 80000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "alternate_url": "https://hh.ru/vacancy/105697583"
+    },
+    {
+        "employer_name": "Web-разработчик (Junior)",
+        "name": "PVS-Studio",
+        "salary": {
+            "from": 45000,
+            "to": 60000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "alternate_url": "https://hh.ru/vacancy/105755670"
+    },
+    {
+        "employer_name": "Программист Python",
+        "name": "Лаборатория моделирования систем",
+        "salary": {
+            "from": 160000,
+            "to": null,
+            "currency": "RUR",
+            "gross": false
+        },
+        "alternate_url": "https://hh.ru/vacancy/104664942"
+    },
+    {
+        "employer_name": "Разработчик",
+        "name": "Сетевые решения",
+        "salary": {
+            "from": 50000,
+            "to": 70000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "alternate_url": "https://hh.ru/vacancy/105296322"
+    },
+    {
+        "employer_name": "Бизнес-аналитик стажёр",
+        "name": "Soar high software",
+        "salary": {
+            "from": 70000,
+            "to": 120000,
+            "currency": "RUR",
+            "gross": false
+        },
+        "alternate_url": "https://hh.ru/vacancy/105728201"
+    },
+    {
+        "employer_name": "QA тестировщик",
+        "name": "DCloud",
+        "salary": {
+            "from": 140000,
+            "to": 240000,
+            "currency": "RUR",
+            "gross": true
+        },
+        "alternate_url": "https://hh.ru/vacancy/105801332"
+    }
+]

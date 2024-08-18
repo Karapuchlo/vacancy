@@ -1,3 +1,13 @@
+
+from dataclasses import dataclass
+
+@dataclass
+class Vacancy:
+    employer_name: str
+    name: str
+    salary: str
+    alternate_url: str
+
 class Vacancy:
     def __init__(self, employer_name, name, salary, alternate_url):
         self.employer_name = employer_name

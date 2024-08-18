@@ -2,7 +2,7 @@
 import requests
 import csv
 import json
-from vacancy import Vacancy
+from src.vacancy import Vacancy
 
 class HHAPIParser:
     def fetch_vacancies_hh(self):
@@ -40,12 +40,8 @@ class HHAPIParser:
 # exporter
     def export_vacancies_hh(self, vacancies):
         # Экспортируем вакансии в json-файл
-        with open('vacancies.json', 'a', encoding="UTF-8") as jsonfile:
-            json.dump(vacancies, jsonfile, indent=4, ensure_ascii=False, skipkeys=True, sort_keys=True)
-            #writer.writerow(['Название', 'Работодатель', 'Зарплата', 'Ссылка'])
-            #for vacancy in vacancies:
-                #if vacancy.salary is not None:
-                    #writer.writerow([vacancy.employer_name, vacancy.name, vacancy.salary, vacancy.alternate_url])
+        with open('vacancies.json', 'w', encoding="UTF-8") as jsonfile:
+            json.dump([v.__dict__ for v in vacancies], jsonfile, indent=4, ensure_ascii=False)
 
 
 class HHAPIExporter:
