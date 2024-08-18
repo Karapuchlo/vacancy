@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "parser"
+version = "0.1.0"
+description = "Парсер вакансий с HH и SuperJob"
+authors = ["Sharin Aleksey <a.sharin68@yandex.ru>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+requests = "^2.28.2"
+dataclasses = { version = "^0.8", python = "^3.6" }
+
+[tool.poetry.dev-dependencies]
+pytest = "^7.2.1"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
